@@ -11,7 +11,7 @@
 
 - 📝 I regularly make videos on AI/ML topics [https://www.youtube.com/@TrainTestDeploy](https://www.youtube.com/@TrainTestDeploy)
 
-- 💬 Ask me about **Python, ML**
+- 💬 Ask me about **Python, ML and Nural Network**
 
 - 📫 How to reach me **deepak.mau2@gmail.com**
 
